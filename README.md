@@ -60,5 +60,3 @@ O requisito técnico mais importante deste projeto era a **proibição** de cert
 
 Projeto desenvolvido por **Fabio Thieres**.
 
-* [![LinkedIn](https://www.linkedin.com/in/fabio-thieres-00b320265/)
-* [![GitHub](https://github.com/fabiothieres)
