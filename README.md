@@ -10,7 +10,7 @@
 
 Você pode ver o site completo em funcionamento no Vercel:
 
-**[https://fabio-thieres.github.io/projeto-viva-bem/](https://fabio-thieres.github.io/projeto-viva-bem/)**
+**(https://projeto-viva-bem.vercel.app/)**
 
 ---
 
@@ -60,5 +60,5 @@ O requisito técnico mais importante deste projeto era a **proibição** de cert
 
 Projeto desenvolvido por **Fabio Thieres**.
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui/)
-* [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-github-aqui/)
+* [![LinkedIn](https://www.linkedin.com/in/fabio-thieres-00b320265/)
+* [![GitHub](https://github.com/fabiothieres)
